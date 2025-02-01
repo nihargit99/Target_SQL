@@ -8,14 +8,16 @@ Target is a globally renowned brand and a prominent retailer in the United State
 
 The data is available in 8 CSV files:
 
-customers.csv
-sellers.csv
-order_items.csv
-geolocation.csv
-payments.csv
-reviews.csv
-orders.csv
-products.csv
+1. customers.csv
+2. sellers.csv
+3. order_items.csv
+4. geolocation.csv
+5. payments.csv
+6. reviews.csv
+7. orders.csv
+8. products.csv
+
+   
 By analyzing this extensive dataset, it becomes possible to gain valuable insights into Target's operations in Brazil. The information can shed light on various aspects of the business, such as order processing, pricing strategies, payment and shipping efficiency, customer demographics, product characteristics, and customer satisfaction levels.
 
 Tools and Databases used:
